@@ -1,0 +1,3 @@
+model,f1_macro
+RandomForest,0.8738893791638848
+XGBoost,0.8738154678901833

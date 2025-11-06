@@ -1,0 +1,9 @@
+setting,num_features,f1_macro
++sig_abs+binning,11,0.8899503798052809
++sig_abs+interactions,14,0.8790275904176104
+all_features,19,0.8788701497393409
+baseline_only,5,0.8738893791638848
++binning,10,0.8734942053226521
++sig_abs,6,0.8680948626063674
++interactions+binning,18,0.8676053363490919
++interactions,13,0.8513099043105155
